@@ -1,0 +1,7 @@
+F:\Academic\Specialize\C#\Basic\GCD0904AssignmentTrinhDoduyHung\bin\Debug\GCD0904AssignmentTrinhDoduyHung.exe.config
+F:\Academic\Specialize\C#\Basic\GCD0904AssignmentTrinhDoduyHung\bin\Debug\GCD0904AssignmentTrinhDoduyHung.exe
+F:\Academic\Specialize\C#\Basic\GCD0904AssignmentTrinhDoduyHung\bin\Debug\GCD0904AssignmentTrinhDoduyHung.pdb
+F:\Academic\Specialize\C#\Basic\GCD0904AssignmentTrinhDoduyHung\obj\Debug\GCD0904AssignmentTrinhDoduyHung.csprojAssemblyReference.cache
+F:\Academic\Specialize\C#\Basic\GCD0904AssignmentTrinhDoduyHung\obj\Debug\GCD0904AssignmentTrinhDoduyHung.csproj.CoreCompileInputs.cache
+F:\Academic\Specialize\C#\Basic\GCD0904AssignmentTrinhDoduyHung\obj\Debug\GCD0904AssignmentTrinhDoduyHung.exe
+F:\Academic\Specialize\C#\Basic\GCD0904AssignmentTrinhDoduyHung\obj\Debug\GCD0904AssignmentTrinhDoduyHung.pdb
